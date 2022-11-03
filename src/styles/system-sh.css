@@ -1,0 +1,92 @@
+/* Шапка */
+
+.system-header {
+  display: flex;
+  margin-bottom: 60px;
+}
+.green-quadrat {
+  background-color: green;
+  height: 95px;
+  width: 90px;
+}
+
+.system-header__title{
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.system-header h2 {
+  margin: 0;
+  color: green;
+  margin-left: 35px;
+  margin-bottom: 10px;
+}
+
+.system-header p {
+  margin-left: 35px;
+  width: 90%;
+}
+
+
+
+/* Список услуг */
+
+.system-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+.sys-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 250px;
+  width: 200px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+}
+.sys-item__img {
+  width: 30px;
+  color: green;
+}
+
+.sys-item h3 {
+  margin: 20px 0 25px;
+}
+
+.sys-item p {
+  height: 100px;
+  font-size: inherit;
+  margin-top: 20px;
+  color: gray;
+
+}
+.sys-item__link {
+  margin: 10px 0 20px 0
+}
+
+.sys-item__link a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: green;
+  font-size: inherit;
+  transition: font-size, 0.2s;
+}
+
+.sys-item__link a:hover {
+  font-size: 18px;
+  transition: font-size, 0.2s;
+}
+
+
+.link-icon{
+  height: 20px;
+  padding-right: 35px;
+  background-repeat: no-repeat;
+  background-image: url(../assets/icones/arrow-in-circle.svg);
+  background-size: contain;
+}
+

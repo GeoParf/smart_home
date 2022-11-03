@@ -1,0 +1,67 @@
+.header{
+  display: flex;
+  height: 85px;
+  min-width: 1200px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: lightgray;  ;
+}
+
+/* Логотип */
+
+.header-left {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo__img{
+  width: 95px;
+  height: 85px;
+}
+.name {
+  color: green;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.slogan{
+  margin-left: 50px;
+  font-size: 16px;
+}
+
+/* Навигация */
+
+.nav {
+  min-width: 300px;
+}
+
+.nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.nav ul li {
+  list-style: none;
+  font-size: 14px;
+ 
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+
+}
+
+.nav ul li a:hover {
+  text-decoration: none;
+  color: green;
+  transition: 0.3s;
+}

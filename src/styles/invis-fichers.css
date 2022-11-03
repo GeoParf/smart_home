@@ -1,0 +1,99 @@
+/* Контроль над светом и электричеством */
+
+.lamp-control{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top:0px;
+  left: 610px;
+}
+
+.socket-control{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 160px;
+  left: 276px;
+}
+
+.energy-control{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 10px;
+  left: 512px;
+}
+
+/* Сигнализация */
+
+.signal-cop{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 415px;
+  left: 820px;
+}
+
+.red-lamp{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 320px;
+  left: 927px;
+}
+
+.thif{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 147px;
+  left: 938px;
+}
+.window-break{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 22px;
+  left: 825px;
+}
+
+/* Wi-fi */
+
+.phone{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 22px;
+  left: 333px;
+}
+
+/* Климат */
+
+.termometr{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 334px;
+  left: 275px;
+}
+
+/* Видеонаблюдение */
+
+.camera{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 411px;
+  left: 499px;
+}
+
+/* Замки */
+
+.door{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 411px;
+  left: 654px;
+}
+/* background-color: rgb(255, 0, 0); */

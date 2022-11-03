@@ -1,0 +1,243 @@
+[
+  {
+    "category": "ee",
+    "id": "ee1",
+    "price": 100,
+    "isMarked": false,
+    "text": "Монтаж распаячной коробки",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee2",
+    "price": 200,
+    "isMarked": false,
+    "text": "Сверление проходного отверстия на высоте более 2м",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee3",
+    "price": 500,
+    "isMarked": false,
+    "text": "Видеорегистратор 1 выход VGA + 1 HDMI (аудио/видео)",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee4",
+    "price": 500,
+    "isMarked": false,
+    "text": "8-портовый POE свитч",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee5",
+    "price": 500,
+    "isMarked": false,
+    "text": "HDD 2 Tb SATA",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee6",
+    "price": 500,
+    "isMarked": false,
+    "text": "Монитор",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee7",
+    "price": 500,
+    "isMarked": false,
+    "text": "Defender Кабель HDMI to HDMI (19M - 19M) 10м (87435)",
+    "totalElement": 500
+  },
+  {
+    "category": "ee",
+    "id": "ee8",
+    "price": 500,
+    "isMarked": false,
+    "text": "Видеокамера (PoE)",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me1",
+    "price": 50,
+    "isMarked": false,
+    "text": "Кабель UTP 2 пары кат.5",
+    "amount": 1,
+    "totalElement": 50
+  },
+  {
+    "category": "me",
+    "id": "me2",
+    "price": 500,
+    "isMarked": false,
+    "text": "Коннектор RJ45",
+    "totalElement": 500
+  }, 
+  {
+    "category": "me",
+    "id": "me3",
+    "price": 50,
+    "isMarked": false,
+    "text": "Гофра",
+    "amount": 1,
+    "totalElement": 50
+  },
+  {
+    "category": "me",
+    "id": "me4",
+    "price": 500,
+    "isMarked": false,
+    "text": "Коробка мотажная влагозащищенная",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me5",
+    "price": 500,
+    "isMarked": false,
+    "text": "Шкаф настенный",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me6",
+    "price": 500,
+    "isMarked": false,
+    "text": "Patch Panel 19\"",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me7",
+    "price": 500,
+    "isMarked": false,
+    "text": "Кабельный органайзер 19\" с пластиковыми кольцами, 1U, 5 колец",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me8",
+    "price": 500,
+    "isMarked": false,
+    "text": "БР-9.2 Блок розеток 19\"",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me9",
+    "price": 500,
+    "isMarked": false,
+    "text": "DIN рейка оцинкованная",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me10",
+    "price": 500,
+    "isMarked": false,
+    "text": "Шина нулевая на DIN-изоляции",
+    "totalElement": 500
+  },
+  {
+    "category": "me",
+    "id": "me11",
+    "price": 500,
+    "isMarked": false,
+    "text": "Кабель силовой ШВП",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw1",
+    "price": 500,
+    "isMarked": false,
+    "text": "Прокладка кабеля открытым в коробе или гофре (за метр) высота более 2,5м",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw2",
+    "price": 500,
+    "isMarked": false,
+    "text": "Установка уличной камеры видеонаблюдения",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw3",
+    "price": 500,
+    "isMarked": false,
+    "text": "Установка блока резервного питания для системы видеонаблюдения (стоечный)",
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw4",
+    "price": 500,
+    "isMarked": false,
+    "text": "Обжим коннектора RJ45",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw5",
+    "price": 500,
+    "isMarked": false,
+    "text": "Установка и настройка общего монитора видеонаблюдения",
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw6",
+    "price": 500,
+    "isMarked": false,
+    "text": "Настройка РоЕ коммутатора",
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw7",
+    "price": 500,
+    "isMarked": false,
+    "text": "Монтаж оборудования серверной стойки",
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw8",
+    "price": 500,
+    "isMarked": false,
+    "text": "Настройка видео регистратора",
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw9",
+    "price": 500,
+    "isMarked": false,
+    "text": "Сверление проходного отверстия на высоте более 2м",
+    "amount": 1,
+    "totalElement": 500
+  },
+  {
+    "category": "mw",
+    "id": "mw10",
+    "price": 500,
+    "isMarked": false,
+    "text": "Монтаж распаячной коробки",
+    "totalElement": 500
+  }
+]

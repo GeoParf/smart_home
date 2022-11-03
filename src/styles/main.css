@@ -1,0 +1,49 @@
+/* Main */
+
+.image {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  margin-bottom: 50px;
+  height: 500px;
+}
+
+
+
+/* Преимущества */
+
+.fichers {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.fichers_item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.fichers_icone{
+  display: flex;
+}
+
+.home-fichers_img {
+  display: block;
+  height: 70px;
+  margin-bottom: 20px;
+}
+
+.fichers_text {
+  width: 250px;
+  font-style: italic;
+  padding-top: 25px;
+  margin-left: 20px;
+}
+.ficher_name{
+  margin-left: 10px;
+}
+

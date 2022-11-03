@@ -1,0 +1,59 @@
+/* Servises */
+
+.servis-header {
+  color: green;
+  margin: 50px 0 75px 168px;
+}
+
+.servises {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.servises-list {
+  width: 50%;
+}
+
+.servises-list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.servises-list-item_img {
+  width: 17%;
+}
+
+.servises-list-item_img img{
+  width: 100%;
+}
+
+.servises-list-item_text {
+  text-align: left;
+  font-style: italic;
+  width: 80%;
+}
+
+.servises-list-item_text a {
+  text-decoration: none;
+  color: green;
+}
+
+.servises-list-item_text h3 {
+ color: green;
+}
+
+.servises-list-item_text p {
+  width: 70%;
+ }
+
+ .servises-image{
+  width: 40%;
+  height: 40%;
+}
+
+.servises-image img {
+  width: 100%;
+}
