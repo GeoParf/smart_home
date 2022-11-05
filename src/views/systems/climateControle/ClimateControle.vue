@@ -45,11 +45,11 @@
 </template>
 
 <script>
-  import Calculator from "@/components/Calculator.vue";
-  export default {
-    components: { Calculator },
-    name: "ClimateControle",
-  };
+import Calculator from "@/components/calculator/Calculator.vue";
+export default {
+  components: { Calculator },
+  name: "ClimateControle",
+};
 </script>
 
 <style>

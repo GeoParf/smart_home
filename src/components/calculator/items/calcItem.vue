@@ -104,12 +104,12 @@ export default {
 }
 .plus {
   background-size: 10px 10px;
-  background-image: url("../../assets/icones/up_btn.png");
+  background-image: url("@/assets/icones/up_btn.png");
 }
 
 .minus {
   background-size: 10px 10px;
-  background-image: url("../../assets/icones/down_btn.png");
+  background-image: url("@/assets/icones/down_btn.png");
 }
 
 .input-checkbox {
