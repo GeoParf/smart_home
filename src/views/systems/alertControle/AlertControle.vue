@@ -44,7 +44,7 @@
 </template>
 
 <script>
-import Calculator from "@/components/Calculator.vue";
+import Calculator from "@/components/calculator/Calculator.vue";
 export default {
   name: "alertControle",
   components: { Calculator },

@@ -1,0 +1,11 @@
+  {
+    "electrisity":["electric-equipment", "me", "mw"],
+    "accessControle":[],
+    "alertControle":[],
+    "audioControle":[],
+    "climatControle":[],
+    "curtansControle":[],
+    "vidioControle":[],
+    "waterControle":[],
+    "wifi":[]
+  }
