@@ -1,18 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '@/views/home/Home.vue';
-import Elecrticity from '@/views/systems/electricity/Electricity.vue';
-import SmartHouseSistem from '@/views/systems/smartHouseSystem/Smart-house-system.vue';
-import CurtainsControle from '@/views/systems/curtainsControle/CurtainsControle.vue'
-import WaterControle from '@/views/systems/waterControle/WaterControl.vue'
-import ClimateControle from '@/views/systems/climateControle/ClimateControle.vue'
-import AudioControle from '@/views/systems/audioControle/AudioControle.vue'
-import Wifi from '@/views/systems/wi-fi/wi-fi.vue'
-import VideoControle from '@/views/systems/videoControle/VideoControle.vue'
-import AccessControle from '@/views/systems/accessControle/AccessControle.vue'
-import AlertControle from '@/views/systems/alertControle/AlertControle.vue'
-import News from '@/views/news/News.vue'
-import Contacts from '@/views/contacts/Contacts.vue'
-import Servises from '@/views/servises/Servises.vue'
 
 const routes = [
   {
@@ -24,76 +11,76 @@ const routes = [
   {
     path: '/shs',
     name: 'smart-hause-system',
-    component: SmartHouseSistem,
+    component: () => import ('@/views/systems/smartHouseSystem/Smart-house-system.vue')//SmartHouseSistem,
   },
 
   {
     path: '/electrisity',
     name: 'electrisity',
-    component: Elecrticity
+    component: () => import ('@/views/systems/electricity/Electricity.vue')
   },
 
   {
     path: '/curtains-controle',
     name: 'curtains-controle',
-    component: CurtainsControle
+    component: () => import ('@/views/systems/curtainsControle/CurtainsControle.vue')
   },
 
   {
     path: '/water-controle',
     name: 'water-controle',
-    component: WaterControle,
+    component: () => import ('@/views/systems/curtainsControle/WaterControl.vue'),
   },
 
   {
     path: '/climate-controle',
     name: 'climate-controle',
-    component: ClimateControle,
+    component: () => import ('@/views/systems/curtainsControle/ClimateControle.vue'),
   },
 
   {
     path: '/audio-controle',
     name: 'audio-controle',
-    component: AudioControle,
+    component: () => import ('@/views/systems/curtainsControle/AudioControle.vue'),
   },
 
   {
     path: '/wi-fi',
     name: 'wi-fi',
-    component: Wifi,
+    component: () => import ('@/views/systems/curtainsControle/wi-fi.vue'),
   },
 
   {
     path: '/video-controle',
     name: 'video-controle',
-    component: VideoControle,
+    component: () => import ('@/views/systems/curtainsControle/VideoControle.vue'),
   },
 
   {
     path: '/access-controle',
     name: 'access-controle',
-    component: AccessControle,
+    component: () => import ('@/views/systems/curtainsControle/AccessControle.vue'),
   },
 
   {
     path: '/alert-controle',
     name: 'alert-controle',
-    component: AlertControle,
+    component: () => import ('@/views/systems/curtainsControle/AlertControle.vue'),
   },
   {
     path: '/news',
     name: 'news',
-    component: News,
+    component: () => import ('@/views/systems/curtainsControle/News.vue'),
   },
   {
     path: '/servises',
     name: 'servises',
-    component: Servises,
+    component: () => import ('@/views/systems/curtainsControle/Servises.vue'),
   },
   {
     path: '/contacts',
     name: 'contacts',
-    component: Contacts,
+    component: () => import ('@/views/systems/curtainsControle/Contacts.vue'),
   },
 ]
 
