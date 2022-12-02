@@ -5,7 +5,7 @@
     "price": 100,
     "isMarked": false,
     "text": "Монтаж распаячной коробки",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -14,7 +14,7 @@
     "isMarked": false,
     "text": "Сверление проходного отверстия на высоте более 2м",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -22,7 +22,7 @@
     "price": 500,
     "isMarked": false,
     "text": "Видеорегистратор 1 выход VGA + 1 HDMI (аудио/видео)",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -30,7 +30,7 @@
     "price": 500,
     "isMarked": false,
     "text": "8-портовый POE свитч",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -38,7 +38,7 @@
     "price": 500,
     "isMarked": false,
     "text": "HDD 2 Tb SATA",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -46,7 +46,7 @@
     "price": 500,
     "isMarked": false,
     "text": "Монитор",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
     "category": "electric-equipment",
@@ -54,190 +54,190 @@
     "price": 500,
     "isMarked": false,
     "text": "Defender Кабель HDMI to HDMI (19M - 19M) 10м (87435)",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "electric-equipment",
+    "category": "electric-equipment ",
     "id": "ee8",
     "price": 500,
     "isMarked": false,
     "text": "Видеокамера (PoE)",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me1",
+    "category": "mounting-hardware",
+    "id": "mh1",
     "price": 50,
     "isMarked": false,
     "text": "Кабель UTP 2 пары кат.5",
     "amount": 1,
-    "totalElement": 50
+    "totalElemounting": 50
   },
   {
-    "category": "me",
-    "id": "me2",
+    "category": "mounting-hardware",
+    "id": "mh2",
     "price": 500,
     "isMarked": false,
     "text": "Коннектор RJ45",
-    "totalElement": 500
+    "totalElemounting": 500
   }, 
   {
-    "category": "me",
-    "id": "me3",
+    "category": "mounting-hardware",
+    "id": "mh3",
     "price": 50,
     "isMarked": false,
     "text": "Гофра",
     "amount": 1,
-    "totalElement": 50
+    "totalElemounting": 50
   },
   {
-    "category": "me",
-    "id": "me4",
+    "category": "mounting-hardware",
+    "id": "mh4",
     "price": 500,
     "isMarked": false,
     "text": "Коробка мотажная влагозащищенная",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me5",
+    "category": "mounting-hardware",
+    "id": "mh5",
     "price": 500,
     "isMarked": false,
     "text": "Шкаф настенный",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me6",
+    "category": "mounting-hardware",
+    "id": "mh6",
     "price": 500,
     "isMarked": false,
     "text": "Patch Panel 19\"",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me7",
+    "category": "mounting-hardware",
+    "id": "mh7",
     "price": 500,
     "isMarked": false,
     "text": "Кабельный органайзер 19\" с пластиковыми кольцами, 1U, 5 колец",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me8",
+    "category": "mounting-hardware",
+    "id": "mh8",
     "price": 500,
     "isMarked": false,
     "text": "БР-9.2 Блок розеток 19\"",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me9",
+    "category": "mounting-hardware",
+    "id": "mh9",
     "price": 500,
     "isMarked": false,
     "text": "DIN рейка оцинкованная",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me10",
+    "category": "mounting-hardware",
+    "id": "mh10",
     "price": 500,
     "isMarked": false,
     "text": "Шина нулевая на DIN-изоляции",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "me",
-    "id": "me11",
+    "category": "mounting-hardware",
+    "id": "mh12",
     "price": 500,
     "isMarked": false,
     "text": "Кабель силовой ШВП",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw1",
+    "category": "installation-work",
+    "id": "iw1",
     "price": 500,
     "isMarked": false,
     "text": "Прокладка кабеля открытым в коробе или гофре (за метр) высота более 2,5м",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw2",
+    "category": "installation-work",
+    "id": "iw2",
     "price": 500,
     "isMarked": false,
     "text": "Установка уличной камеры видеонаблюдения",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw3",
+    "category": "installation-work",
+    "id": "iw3",
     "price": 500,
     "isMarked": false,
     "text": "Установка блока резервного питания для системы видеонаблюдения (стоечный)",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw4",
+    "category": "installation-work",
+    "id": "iw4",
     "price": 500,
     "isMarked": false,
     "text": "Обжим коннектора RJ45",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw5",
+    "category": "installation-work",
+    "id": "iw5",
     "price": 500,
     "isMarked": false,
     "text": "Установка и настройка общего монитора видеонаблюдения",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw6",
+    "category": "installation-work",
+    "id": "iw6",
     "price": 500,
     "isMarked": false,
     "text": "Настройка РоЕ коммутатора",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw7",
+    "category": "installation-work",
+    "id": "iw7",
     "price": 500,
     "isMarked": false,
     "text": "Монтаж оборудования серверной стойки",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw8",
+    "category": "installation-work",
+    "id": "iw8",
     "price": 500,
     "isMarked": false,
     "text": "Настройка видео регистратора",
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw9",
+    "category": "installation-work",
+    "id": "iw9",
     "price": 500,
     "isMarked": false,
     "text": "Сверление проходного отверстия на высоте более 2м",
     "amount": 1,
-    "totalElement": 500
+    "totalElemounting": 500
   },
   {
-    "category": "mw",
-    "id": "mw10",
+    "category": "installation-work",
+    "id": "iw10",
     "price": 500,
     "isMarked": false,
     "text": "Монтаж распаячной коробки",
-    "totalElement": 500
+    "totalElemounting": 500
   }
 ]

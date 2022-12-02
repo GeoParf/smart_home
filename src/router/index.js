@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Home from '@/views/home/Home.vue';
+import Home from '../views/home/Home.vue';
 
 const routes = [
   {
@@ -29,58 +29,58 @@ const routes = [
   {
     path: '/water-controle',
     name: 'water-controle',
-    component: () => import ('@/views/systems/curtainsControle/WaterControl.vue'),
+    component: () => import ('../views/systems/waterControle/WaterControl.vue'),
   },
 
   {
     path: '/climate-controle',
     name: 'climate-controle',
-    component: () => import ('@/views/systems/curtainsControle/ClimateControle.vue'),
+    component: () => import ('../views/systems/climateControle/ClimateControle.vue'),
   },
 
   {
     path: '/audio-controle',
     name: 'audio-controle',
-    component: () => import ('@/views/systems/curtainsControle/AudioControle.vue'),
+    component: () => import ('../views/systems/audioControle/AudioControle.vue'),
   },
 
   {
     path: '/wi-fi',
     name: 'wi-fi',
-    component: () => import ('@/views/systems/curtainsControle/wi-fi.vue'),
+    component: () => import ('../views/systems/wi-fi/wi-fi.vue'),
   },
 
   {
     path: '/video-controle',
     name: 'video-controle',
-    component: () => import ('@/views/systems/curtainsControle/VideoControle.vue'),
+    component: () => import ('../views/systems/videoControle/VideoControle.vue'),
   },
 
   {
     path: '/access-controle',
     name: 'access-controle',
-    component: () => import ('@/views/systems/curtainsControle/AccessControle.vue'),
+    component: () => import ('../views/systems/accessControle/AccessControle.vue'),
   },
 
   {
     path: '/alert-controle',
     name: 'alert-controle',
-    component: () => import ('@/views/systems/curtainsControle/AlertControle.vue'),
+    component: () => import ('../views/systems/alertControle/AlertControle.vue'),
   },
   {
     path: '/news',
     name: 'news',
-    component: () => import ('@/views/systems/curtainsControle/News.vue'),
+    component: () => import ('../views/news/News.vue'),
   },
   {
     path: '/servises',
     name: 'servises',
-    component: () => import ('@/views/systems/curtainsControle/Servises.vue'),
+    component: () => import ('../views/servises/Servises.vue'),
   },
   {
     path: '/contacts',
     name: 'contacts',
-    component: () => import ('@/views/systems/curtainsControle/Contacts.vue'),
+    component: () => import ('../views/contacts/Contacts.vue'),
   },
 ]
 

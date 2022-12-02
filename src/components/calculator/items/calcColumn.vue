@@ -33,10 +33,13 @@ export default {
   computed: {
     getTitle() {
       if (this.category === "electric-equipment") {
+        console.log(this.category);
         return "Основное электронное оборудование: ";
-      } else if (this.category === "me") {
+      } else if (this.category === "mounting-hardware") {
+        console.log(this.category);
         return "Монтажное оборудование: ";
-      } else if (this.category === "mw") {
+      } else if (this.category === "installation-work") {
+        console.log(this.category);
         return "Монтажные работы: ";
       }
     },
