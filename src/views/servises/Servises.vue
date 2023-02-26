@@ -43,9 +43,9 @@
               <img src="@/assets/images/VideoCam.gif" alt="" />
             </div>
             <div class="servises-list-item_text">
-              <a href="@/videoControl.html">
+              <router-link to="/video-controle">
                 <h3>Видеонаблюдение</h3>
-              </a>
+              </router-link>
               <p>
                 Создание системы видеонаблюдения под любые задачи пользователя с
                 возможностью удаленного просмотра видеоархива.
@@ -57,9 +57,9 @@
               <img src="@/assets/images/Signal.gif" alt="" />
             </div>
             <div class="servises-list-item_text">
-              <a href="@/signalisation.html">
+              <router-link to="/alert-controle">
                 <h3>Сигнализация</h3>
-              </a>
+              </router-link>
               <p>
                 Система защиты от проникновения с любой конфигурацией датчиков и
                 удаленным оповещением.
@@ -80,6 +80,3 @@ export default {
   name: "Servises",
 };
 </script>
-
-<style>
-</style>

@@ -10,7 +10,7 @@
       </div>
       <div class="header-text">
         <span class="name">
-          <h1>Система домашней автоматизации</h1>
+          <h1 class="header-header">Система домашней автоматизации</h1>
         </span>
         <span class="slogan"
           >Доверьтесь автоматике - осводбодите себя от рутинных задач</span
@@ -28,9 +28,9 @@
         <li>
           <router-link to="/servises">Услуги</router-link>
         </li>
-        <li>
+        <!-- <li>
           <router-link to="/news">Новости</router-link>
-        </li>
+        </li> -->
         <li>
           <router-link to="/contacts">Контакты</router-link>
         </li>

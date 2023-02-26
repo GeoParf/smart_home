@@ -8,10 +8,18 @@
 }
 .home-img {
   margin-bottom: 50px;
-  height: 500px;
 }
 
+@media(max-width:391px){
+  .image{
+    width: 100%;
+    padding-top: 30px;
+  }
+  .home-img {
+    width: inherit;
+  }
 
+}
 
 /* Преимущества */
 
@@ -20,6 +28,7 @@
   justify-content: space-around;
   align-items: center;
   margin-bottom: 30px;
+  margin-top: -40px;
 }
 
 .fichers_item{
@@ -45,5 +54,13 @@
 }
 .ficher_name{
   margin-left: 10px;
+}
+@media(max-width: 390px){
+  .fichers{
+    flex-direction: column;
+  }
+  .home-fichers_img {
+    margin-bottom: 5px;
+  }
 }
 

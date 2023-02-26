@@ -65,7 +65,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh1",
     "price": 50,
     "isMarked": false,
@@ -74,7 +74,7 @@
     "totalElemounting": 50
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh2",
     "price": 500,
     "isMarked": false,
@@ -82,7 +82,7 @@
     "totalElemounting": 500
   }, 
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh3",
     "price": 50,
     "isMarked": false,
@@ -91,7 +91,7 @@
     "totalElemounting": 50
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh4",
     "price": 500,
     "isMarked": false,
@@ -99,7 +99,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh5",
     "price": 500,
     "isMarked": false,
@@ -107,7 +107,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh6",
     "price": 500,
     "isMarked": false,
@@ -115,7 +115,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh7",
     "price": 500,
     "isMarked": false,
@@ -123,7 +123,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh8",
     "price": 500,
     "isMarked": false,
@@ -131,7 +131,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh9",
     "price": 500,
     "isMarked": false,
@@ -140,7 +140,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh10",
     "price": 500,
     "isMarked": false,
@@ -148,7 +148,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "mounting-hardware",
+    "category": "electric-mounting-hardware",
     "id": "mh12",
     "price": 500,
     "isMarked": false,
@@ -157,7 +157,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw1",
     "price": 500,
     "isMarked": false,
@@ -166,7 +166,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw2",
     "price": 500,
     "isMarked": false,
@@ -175,7 +175,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw3",
     "price": 500,
     "isMarked": false,
@@ -183,7 +183,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw4",
     "price": 500,
     "isMarked": false,
@@ -192,7 +192,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw5",
     "price": 500,
     "isMarked": false,
@@ -200,7 +200,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw6",
     "price": 500,
     "isMarked": false,
@@ -208,7 +208,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw7",
     "price": 500,
     "isMarked": false,
@@ -216,7 +216,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw8",
     "price": 500,
     "isMarked": false,
@@ -224,7 +224,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw9",
     "price": 500,
     "isMarked": false,
@@ -233,7 +233,7 @@
     "totalElemounting": 500
   },
   {
-    "category": "installation-work",
+    "category": "electric-installation-work",
     "id": "iw10",
     "price": 500,
     "isMarked": false,

@@ -12,7 +12,9 @@
 
 .system-header__title{
   margin-top: 20px;
+  margin-right: 172px;
   font-style: italic;
+  width: 100%;
 }
 
 .system-header h2 {

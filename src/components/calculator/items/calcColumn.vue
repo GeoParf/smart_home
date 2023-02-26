@@ -3,7 +3,9 @@
     <div class="electric-equipment">
       <div>
         <span>
-          <h3 class="option-title">{{ getTitle }}</h3>
+          <h3 class="option-title">
+            {{ getTitle }}
+          </h3>
         </span>
       </div>
       <div class="option-list">
@@ -32,13 +34,13 @@ export default {
 
   computed: {
     getTitle() {
-      if (this.category === "electric-equipment") {
+      if (this.category.title === "Основное оборудование: ") {
         console.log(this.category);
-        return "Основное электронное оборудование: ";
-      } else if (this.category === "mounting-hardware") {
+        return "Основное оборудование: ";
+      } else if (this.category.title === "Монтажное оборудование: ") {
         console.log(this.category);
         return "Монтажное оборудование: ";
-      } else if (this.category === "installation-work") {
+      } else if (this.category.title === "Монтажные работы: ") {
         console.log(this.category);
         return "Монтажные работы: ";
       }
@@ -64,7 +66,7 @@ export default {
   },
 
   mounted() {
-    this.calcItems = this.getList(this.category);
+    this.calcItems = this.getList(this.category.option);
   },
 };
 </script>

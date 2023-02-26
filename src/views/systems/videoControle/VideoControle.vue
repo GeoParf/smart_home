@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="green-line"></div>
-    <Calculator />
+    <!-- <Calculator /> -->
   </div>
 </template>
 

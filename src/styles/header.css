@@ -1,11 +1,17 @@
 .header{
   display: flex;
-  height: 85px;
-  min-width: 1200px;
+  max-height: 100px;
+  max-width: 100%  ;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
   background-color: lightgray;  ;
+}
+@media(max-width: 391px){
+  .header{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 /* Логотип */
@@ -18,8 +24,8 @@
 }
 
 .logo__img{
-  width: 95px;
-  height: 85px;
+  width: 60%;
+  margin-top: 5px;
 }
 .name {
   color: green;
@@ -33,6 +39,22 @@
 .slogan{
   margin-left: 50px;
   font-size: 16px;
+}
+
+@media(max-width: 391px){
+  .header-left {
+    flex-direction: row;
+    padding-bottom: 15px;
+  }
+  .header-left{
+    margin-top: 20px;
+  }
+  .header-header{
+    font-size: 12px;
+  }
+  .slogan{
+    display: none;
+  }
 }
 
 /* Навигация */
@@ -50,14 +72,32 @@
 .nav ul li {
   list-style: none;
   font-size: 14px;
+  
  
+}
+@media(max-width: 391px){
+  .nav {
+    min-width: 0px;
+    padding:0 0 20px 0;
+  }
+  .nav ul li {
+    list-style: none;
+    font-size: 10px;
+  }
+  .nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+  }
+  li {
+    margin-left: 10px;
+  }
 }
 
 .nav ul li a {
   text-decoration: none;
   color: black;
   transition: 0.3s;
-
 }
 
 .nav ul li a:hover {

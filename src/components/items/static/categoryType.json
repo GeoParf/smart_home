@@ -1,11 +1,134 @@
-  {
-    "electrisity":["electric-equipment", "mounting-hardware", "installation-work"],
-    "accessControle":[],
-    "alertControle":[],
-    "audioControle":[],
-    "climatControle":[],
-    "curtansControle":[],
-    "vidioControle":[],
-    "waterControle":[],
-    "wifi":[]
+{
+  "electrisity":{
+    "equipment":{
+      "option": "electric-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "electric-mounting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "electric-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "accessControle":{
+    "equipment":{
+      "option": "access-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "passive-hardwere",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "access-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "alertControle":{
+    "equipment":{
+      "option": "alert-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "alert-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "alert-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "audioControle":{
+    "equipment":{
+      "option": "audio-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "audio-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "audio-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "climatControle":{
+    "equipment":{
+      "option": "climat-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "climat-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "climat-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "curtansControle":{
+    "equipment":{
+      "option": "curtans-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "curtans-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "curtans-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+
+  "vidioControle":{
+    "equipment":{
+      "option": "video-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "video-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "video-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+  "waterControle":{
+    "equipment":{
+      "option": "water-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "water-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "water-installation-work",
+      "title": "Монтажные работы: "
+    }
+  },
+  "wifi":{
+    "equipment":{
+      "option": "wifi-equipment",
+      "title": "Основное оборудование: "
+    },
+    "hardware": {
+      "option": "wifi-maunting-hardware",
+      "title": "Монтажное оборудование: "
+    },
+    "work": {
+      "option": "wifi-installation-work",
+      "title": "Монтажные работы: "
+    }
   }
+}

@@ -16,10 +16,8 @@
         </p>
       </div>
     </div>
-
-    <Calculator />
-
     <img src="@/assets/images/curtains.jpg" alt="" />
+    <!-- <Calculator /> -->
   </div>
 </template>
 

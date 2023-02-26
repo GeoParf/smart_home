@@ -5,23 +5,27 @@
   width: 60px;
   height: 60px;
   top:0px;
-  left: 610px;
+  left: 48%;
+/*background-color: red;*/
 }
 
 .socket-control{
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 160px;
-  left: 276px;
+  top: 29%;
+  left: 30%;
+/*background-color: red;*/
 }
 
 .energy-control{
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 10px;
-  left: 512px;
+  top: 1%;
+  left: 43%;
+/*background-color: red;*/
+
 }
 
 /* Сигнализация */
@@ -30,31 +34,36 @@
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 415px;
-  left: 820px;
+  top: 72%;
+  left: 59%;
+/*background-color: red;*/
 }
 
 .red-lamp{
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 320px;
-  left: 927px;
+  top: 55%;
+  left: 65%;
+/*background-color: red;*/
 }
 
 .thif{
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 147px;
-  left: 938px;
+  top: 26%;
+  left: 65%;
+/*background-color: red;*/
+
 }
 .window-break{
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 22px;
-  left: 825px;
+  top: 4%;
+  left: 59%;
+/*background-color: red;*/
 }
 
 /* Wi-fi */
@@ -63,8 +72,9 @@
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 22px;
-  left: 333px;
+  top: 5%;
+  left: 34%;
+/*background-color: red;*/
 }
 
 /* Климат */
@@ -73,8 +83,9 @@
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 334px;
-  left: 275px;
+  top: 59%;
+  left: 30%;
+/*background-color: red;*/
 }
 
 /* Видеонаблюдение */
@@ -83,8 +94,9 @@
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 411px;
-  left: 499px;
+  top: 72%;
+  left: 42%;
+/*background-color: red;*/
 }
 
 /* Замки */
@@ -93,7 +105,105 @@
   position: absolute;
   width: 60px;
   height: 60px;
-  top: 411px;
-  left: 654px;
+  top: 72%;
+  left:51%;
+/*background-color: red;*/
+}
+
+/* Адаптивность для смартфонов*/
+@media(max-width: 390px) {
+  .lamp-control{
+  left: 48%;
+  height: 40px;
+  width: 40px;
+/*  background-color: blue;*/
+  }
+  .socket-control{
+    left: 8%;
+    top:27%;
+    height: 40px;
+    width: 40px;
+  /*  background-color: blue;*/
+  }
+  .energy-control{
+    left: 33%;
+    height: 40px;
+    width: 40px;
+  /*  background-color: blue;*/
+  }
+  /* Сигнализация */
+
+  .signal-cop{
+    height: 40px;
+    width: 40px;
+    top: 66%;
+    left: 70%;
+  /*  background-color: blue;*/
+  }
+
+  .red-lamp{
+    height: 40px;
+    width: 40px;
+    top: 50%;
+    left: 82%;
+  /*  background-color: blue;*/
+  }
+
+  .thif{
+    height: 40px;
+    width: 40px;
+    top: 24%;
+    left: 81%;
+  /*  background-color: blue;*/
+
+  }
+  .window-break{
+    height: 40px;
+    width: 40px;
+    top: 5%;
+    left: 70%;
+  /*  background-color: blue;*/
+  }
+
+  /* Wi-fi */
+
+  .phone{
+    height: 40px;
+    width: 40px;
+    top: 5%;
+    left: 16%;
+  /*  background-color: blue;*/
+  }
+
+  /* Климат */
+
+  .termometr{
+    height: 40px;
+    width: 40px;
+    top: 55%;
+    left: 8%;
+  /*  background-color: blue;*/
+  }
+
+  /* Видеонаблюдение */
+
+  .camera{
+    height: 40px;
+    width: 40px;
+    top: 66%;
+    left: 34%;
+  /*  background-color: blue;*/
+  }
+
+  /* Замки */
+
+  .door{
+    height: 40px;
+    width: 40px;
+    top: 66%;
+    left: 52%;
+  /*  background-color: blue;*/
+  }
+
 }
 /* background-color: rgb(255, 0, 0); */
