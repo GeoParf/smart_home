@@ -113,6 +113,7 @@ export default {
 }
 
 .input-checkbox {
+  margin-right: 3px;
   z-index: 10;
 }
 </style>

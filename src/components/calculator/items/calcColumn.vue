@@ -35,13 +35,10 @@ export default {
   computed: {
     getTitle() {
       if (this.category.title === "Основное оборудование: ") {
-        console.log(this.category);
         return "Основное оборудование: ";
       } else if (this.category.title === "Монтажное оборудование: ") {
-        console.log(this.category);
         return "Монтажное оборудование: ";
       } else if (this.category.title === "Монтажные работы: ") {
-        console.log(this.category);
         return "Монтажные работы: ";
       }
     },

@@ -1,13 +1,15 @@
 <template>
   <div class="header">
     <div class="header-left">
-      <div class="logo">
-        <img
-          class="logo__img"
-          src="@/assets/icones/headerGearHome.png"
-          alt=""
-        />
-      </div>
+      <router-link to="/">
+        <div class="logo">
+          <img
+            class="logo__img"
+            src="@/assets/icones/headerGearHome.png"
+            alt=""
+          />
+        </div>
+      </router-link>
       <div class="header-text">
         <span class="name">
           <h1 class="header-header">Система домашней автоматизации</h1>
